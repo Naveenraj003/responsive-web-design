@@ -20,4 +20,7 @@ You can clone this repo and open any `index.html` file locally in your browser, 
 **Naveen Raj**  
 [GitHub](https://github.com/Naveenraj003) | [LinkedIn](https://www.linkedin.com/in/naveenraj2006)
 
+Visit the below link to view my Completed Project Module:
+(https://naveenraj003.github.io/responsive-web-design/)
+
 ---
