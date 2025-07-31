@@ -2,6 +2,15 @@
 
 This repository contains all the modules and projects I’ve completed as part of the **Responsive Web Design Certification** course.
 
+---
+
+## ✅ Completed Modules
+
+1. [Cat Photo App](./01_cat-photo-app/index.html)
+2. [Cafe Menu](./02_cafe-menu/index.html)
+
+---
+
 ## 📌 About This Repository
 
 Each folder in this repo represents a different module or project in the certification course.  
@@ -19,8 +28,5 @@ You can clone this repo and open any `index.html` file locally in your browser, 
 
 **Naveen Raj**  
 [GitHub](https://github.com/Naveenraj003) | [LinkedIn](https://www.linkedin.com/in/naveenraj2006)
-
-Visit the below link to view my Completed Project Module:
-(https://naveenraj003.github.io/responsive-web-design/)
 
 ---
